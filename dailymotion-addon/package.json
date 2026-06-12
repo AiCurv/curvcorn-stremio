@@ -1,6 +1,6 @@
 {
   "name": "dailymotion-stremio-addon",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "description": "Dailymotion addon for Stremio — watch Dailymotion videos directly in Stremio",
   "main": "index.js",
   "scripts": {
