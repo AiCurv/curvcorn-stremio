@@ -1,0 +1,15 @@
+{
+  "name": "curvcorn-thepornbang-addon",
+  "version": "1.0.0",
+  "description": "Curvcorn: ThePornBang Stremio Addon",
+  "main": "addon.js",
+  "scripts": {
+    "start": "node api/index.js",
+    "dev": "node api/index.js"
+  },
+  "dependencies": {
+    "stremio-addon-sdk": "^1.6.10",
+    "cheerio": "^1.0.0",
+    "node-fetch": "^2.7.0"
+  }
+}
